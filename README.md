@@ -3,4 +3,4 @@ Responsive animated boxcards, rewrited from Youtube course made by  Online Tutor
  - https://youtu.be/szGPXwg2LVE
 
 
-Working version: 
+Working version: https://mariusz-flis.github.io/boxcards/
