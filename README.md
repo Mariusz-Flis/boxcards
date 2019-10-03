@@ -1,5 +1,6 @@
-# navigation
-Responsive animated navigation, rewrited from Youtube course made by DevEd - https://youtu.be/gXkqy0b4M5g
+# boxcards
+Responsive animated boxcards, rewrited from Youtube course made by  Online Tutorials
+ - https://youtu.be/szGPXwg2LVE
 
 
-Working version: https://mariusz-flis.github.io/navigation/
+Working version: 
